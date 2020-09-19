@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Circle CI Status:
+[![GitHub-CA](https://circleci.com/gh/GitHub-CA/udacity-devops-microservice-ml-project.svg?style=svg)](https://circleci.com/gh/GitHub-CA/udacity-devops-microservice-ml-project)
 
 ## Project Overview
 
